@@ -215,8 +215,8 @@ def predict_images_batch(image_paths):
 # Пример вызова функции для 4 изображений
 # Example usage: predict and show 4 images
 predict_images_batch([
-    'image1.jpg',
-    'image2.jpg',
-    'image3.jpg',
-    'image4.jpg'
+    'add your image',
+    'add your image',
+    'add your image',
+    'add your image'
 ])
